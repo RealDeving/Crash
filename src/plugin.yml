@@ -1,0 +1,6 @@
+name: RealCrash
+author: _Real
+main: me._real.crash.Main
+commands:
+  crash
+  aliases: [Fuckoff, shit, boom]
